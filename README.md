@@ -25,4 +25,5 @@
 - When executed, your code will run on every node of the network.
 - So running Solidity on Ethereum is **expensive**.
 - You cannot get data from the outside world (exp RESTFul Api call).
+- No standard library for Array and String (like lowercase strings).
 - ref https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736
