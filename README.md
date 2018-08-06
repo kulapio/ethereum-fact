@@ -20,3 +20,9 @@
 - https://etherscan.io/address/0xe0569fd1c3f0affd7e08131a16c06f3381c9355a#code
 - quickConvertPrioritized()
 
+# Solidity on Ethereum Fact
+- Solidity is a limited language
+- When executed, your code will run on every node of the network.
+- So running Solidity on Ethereum is **expensive**.
+- You cannot get data from the outside world (exp RESTFul Api call).
+- ref https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736
