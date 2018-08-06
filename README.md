@@ -9,6 +9,10 @@
 - refrence [https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e](https://itnext.io/build-a-simple-ethereum-interplanetary-file-system-ipfs-react-js-dapp-23ff4914ce4e)
 
 # Solidity Design Pattern
+
+## Library Driven Development in Solidity
+- https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736
+
 ## DelegateProxy Contracts
 - https://blog.gnosis.pm/solidity-delegateproxy-contracts-e09957d0f201
 
