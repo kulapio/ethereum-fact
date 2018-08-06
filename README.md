@@ -27,3 +27,6 @@
 - You cannot get data from the outside world (exp RESTFul Api call), but there's Oracle model to do this.
 - No standard library for Array and String (like lowercase strings).
 - ref https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736
+
+# Hack cases
+- Vulnerability in StandardToken.sol's implementation of transferFrom() https://github.com/ether-camp/virtual-accelerator/issues/8
