@@ -30,3 +30,8 @@
 
 # Hack cases
 - Vulnerability in StandardToken.sol's implementation of transferFrom() https://github.com/ether-camp/virtual-accelerator/issues/8
+
+# Nodes - Aug 2018
+- mainnet (id 1): 14902
+- ropsten (id 3): 115
+- rinkeby (id 4): 42
