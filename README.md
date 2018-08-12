@@ -42,3 +42,6 @@ https://github.com/paritytech/parity-ethereum/blob/4d08e7b0aec46443bf26547b17d10
 # Two types of accounts
 - User accounts (controlled by private keys)
 - Contracts (controlled by code)
+
+# Signature
+- v, r, s (ECDSA Signature values)
