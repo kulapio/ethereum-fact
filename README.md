@@ -43,5 +43,11 @@ https://github.com/paritytech/parity-ethereum/blob/4d08e7b0aec46443bf26547b17d10
 - User accounts (controlled by private keys)
 - Contracts (controlled by code)
 
-# Signature
+# Transaction
+- nonce (anti-replay-attack)
+- gasPrice (amount of ether per unit gas)
+- gasLimit (maximum gas consumable)
+- to (destination address)
+- value (amount of ether to send)
+- data (readable by contract code)
 - v, r, s (ECDSA Signature values)
