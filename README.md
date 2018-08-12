@@ -30,8 +30,15 @@
 
 # Hack cases
 - Vulnerability in StandardToken.sol's implementation of transferFrom() https://github.com/ether-camp/virtual-accelerator/issues/8
+- Parity wallet hack
+https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7
+https://github.com/paritytech/parity-ethereum/blob/4d08e7b0aec46443bf26547b17d10cb302672835/js/src/contracts/snippets/enhanced-wallet.sol#L216
 
 # Nodes - Aug 2018
 - mainnet (id 1): 14902
 - ropsten (id 3): 115
 - rinkeby (id 4): 42
+
+# Two types of accounts
+- User accounts (controlled by private keys)
+- Contracts (controlled by code)
