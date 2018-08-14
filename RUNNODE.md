@@ -34,4 +34,9 @@ parity db kill --chain ropsten
 ## Export hardcoded sync
 parity export-hardcoded-sync --chain kovan
 
-## Mining
+# Mining
+# Run parity
+parity --chain ropsten --author de9078776c45e3d963ba84cd10f06e610ea6be64 --stratum --stratum-interface=0.0.0.0 --stratum-port=9009
+
+# Run miner
+ethminer -G -S 127.0.0.1:9009
