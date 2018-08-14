@@ -3,11 +3,14 @@ geth --testnet --rpc --rpcapi "db,eth,net,web3,personal" --mine --etherbase "0xf
 
 # Parity
 ## run node
-parity --chain ropsten --warp --jsonrpc-cors=all --jsonrpc-apis=all --jsonrpc-hosts=all --jsonrpc-interface all --ipc-path "/Users/totiz/Library/Application Support/io.parity.ethereum/chains/test/jsonrpc.ipc"
+parity --chain ropsten --warp --jsonrpc-cors=all --jsonrpc-apis=all --jsonrpc-hosts=all --jsonrpc-interface all --ipc-path /Users/totiz/Documents2/jsonrpc.ipc --ipc-apis=all
 <!-- parity --chain ropsten --warp --jsonrpc-cors=all --jsonrpc-apis personal,eth -->
 
+## run in geth compatibility mode
+add --geth
+
 ## run geth with ipc
-geth attach ~/.local/share/io.parity.ethereum/jsonrpc.ipc
+geth attach ~/.local/share/io.parity.ethereum/jsonrpc.ipc console
 
 ## run node in background
 nohup parity --jsonrpc-apis personal,eth &
