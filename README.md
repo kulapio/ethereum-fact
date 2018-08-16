@@ -53,4 +53,4 @@ https://github.com/paritytech/parity-ethereum/blob/4d08e7b0aec46443bf26547b17d10
 - v, r, s (ECDSA Signature values)
 
 # Begining
-- ![[ANN] Ethereum: Welcome to the Beginning](https://bitcointalk.org/index.php?topic=428589.0)
+- [[ANN] Ethereum: Welcome to the Beginning](https://bitcointalk.org/index.php?topic=428589.0)
