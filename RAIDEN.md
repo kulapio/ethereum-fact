@@ -15,5 +15,5 @@ parity --chain ropsten --bootnodes "enode://20c9ad97c081d63397d7b685a412227a40e2
 ~/Downloads/raiden-0.4.2-macOS --keystore-path /Users/totiz/Library/Ethereum/testnet/keystore
 
 # run raiden with parity
-~/Downloads/raiden-0.4.2-macOS --keystore-path "~/Library/Application Support/io.parity.ethereum/keys/test"
+~/Downloads/raiden-0.4.2-macOS --keystore-path ~/Library/Application\ Support/io.parity.ethereum/keys/test
 ```
