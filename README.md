@@ -59,3 +59,15 @@ https://github.com/paritytech/parity-ethereum/blob/4d08e7b0aec46443bf26547b17d10
 - Ropsten: sub-30 seconds
 - Kovan: 4 seconds
 - Rinkeby: 15 seconds
+
+# Defination
+## What is an EIP?
+EIP stands for Ethereum Improvement Proposal. An EIP is a design document providing information to the Ethereum community, or describing a new feature for Ethereum or its processes or environment. The EIP should provide a concise technical specification of the feature and a rationale for the feature. The EIP author is responsible for building consensus within the community and documenting dissenting opinions.
+https://eips.ethereum.org/EIPS/eip-1
+
+## EIP Types
+- Core - improvements requiring a consensus fork
+- Networking - includes improvements around devp2p (EIP8) and Light Ethereum Subprotocol, as well as proposed improvements to network protocol specifications of whisper and swarm.
+- Interface - includes improvements around client API/RPC specifications and standards
+- ERC - application-level standards and conventions, including contract standards such as token standards (ERC20).
+ 
