@@ -22,7 +22,7 @@ hosts = ["all"]
 ```
 
 ## run node
-parity --chain ropsten --warp --jsonrpc-cors=all --jsonrpc-apis=all --jsonrpc-hosts=all --jsonrpc-interface all --ipc-path /Users/totiz/Documents2/jsonrpc.ipc --ipc-apis=all
+parity --chain ropsten --warp --jsonrpc-cors=all --jsonrpc-apis=all --jsonrpc-hosts=all --jsonrpc-interface all --ipc-path ~/parity/jsonrpc.ipc --ipc-apis=all
 <!-- parity --chain ropsten --warp --jsonrpc-cors=all --jsonrpc-apis personal,eth -->
 
 ## run in geth compatibility mode
