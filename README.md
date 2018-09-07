@@ -1,5 +1,7 @@
 # Ethereum Fact
 
+[runnode](/runnode/)
+
 # Pricing
 - **20,000** gas for **1 Word** (8 bytes)
 - **1 Word** cost **0.00008 Ether** (0.000000004 ether/gas).
