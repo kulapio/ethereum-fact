@@ -5,13 +5,6 @@ lang: en-US
 
 # Ethereum Fact
 
-# Links
-[Run node](/runnode/)
-
-[Raiden network](/raiden/)
-
-[Github](https://github.com/kulapio/EthereumFact.git)
-
 # Topics
 [[toc]]
 
