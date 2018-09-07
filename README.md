@@ -34,7 +34,8 @@
 https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7
 https://github.com/paritytech/parity-ethereum/blob/4d08e7b0aec46443bf26547b17d10cb302672835/js/src/contracts/snippets/enhanced-wallet.sol#L216
 
-# Nodes - Aug 2018
+# Nodes
+Aug 2018
 - mainnet (id 1): 14902
 - ropsten (id 3): 115
 - rinkeby (id 4): 42
@@ -71,9 +72,10 @@ https://eips.ethereum.org/EIPS/eip-1
 - Interface - includes improvements around client API/RPC specifications and standards
 - ERC - application-level standards and conventions, including contract standards such as token standards (ERC20).
  
- # ERC721 Stats
- - https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true
+# Token
+## ERC721 Stats
+- https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true
 
-# ERC20 Compatible
+## ERC20 Compatible
 - ERC223 (tokenFallback) https://github.com/Dexaran/ERC223-token-standard 
 - ERC827 (transferAndCall) https://github.com/ethereum/EIPs/issues/827
