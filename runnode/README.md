@@ -1,5 +1,5 @@
 ---
-title: Run node - Ethereum fact
+title: Run node
 lang: en-US
 ---
 

@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'KULAP Dev',
-  description: 'KULAP: Ethereum Fact',
+  title: 'Ethereum Fact',
+  description: 'Ethereum Fact',
   markdown: {
     lineNumbers: true
   },

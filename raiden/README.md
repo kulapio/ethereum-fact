@@ -1,5 +1,5 @@
 ---
-title: Raiden network - Ethereum fact
+title: Raiden network
 lang: en-US
 ---
 
