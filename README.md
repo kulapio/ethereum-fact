@@ -71,3 +71,5 @@ https://eips.ethereum.org/EIPS/eip-1
 - Interface - includes improvements around client API/RPC specifications and standards
 - ERC - application-level standards and conventions, including contract standards such as token standards (ERC20).
  
+ # ERC721 Stats
+ - https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true
