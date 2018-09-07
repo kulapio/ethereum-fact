@@ -73,3 +73,7 @@ https://eips.ethereum.org/EIPS/eip-1
  
  # ERC721 Stats
  - https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true
+
+# ERC20 Compatible
+- ERC223 (tokenFallback) https://github.com/Dexaran/ERC223-token-standard 
+- ERC827 (transferAndCall) https://github.com/ethereum/EIPs/issues/827
