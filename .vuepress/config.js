@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'KULAP',
+  title: 'KULAP Dev',
   description: 'KULAP: Ethereum Fact',
   markdown: {
     lineNumbers: true
@@ -7,6 +7,7 @@ module.exports = {
   base: '/ethereum/fact/',
   themeConfig: {
     nav: [
+      { text: 'Ethereum Fact', link: '/' },
       { text: 'Run node', link: '/runnode/' },
       { text: 'Raiden network', link: '/raiden/' },
       { text: 'Github', link: 'https://github.com/kulapio/EthereumFact.git' },
