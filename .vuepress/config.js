@@ -3,5 +3,6 @@ module.exports = {
   description: 'KULAP: Ethereum Fact',
   markdown: {
     lineNumbers: true
-  }
+  },
+  base: '/ethereum/fact/'
 }
