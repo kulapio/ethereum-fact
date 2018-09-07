@@ -1,7 +1,7 @@
 # Raiden Command Line
 
 ## Run Ethereum
-```s
+``` bash
 # run node with geth
 geth --testnet --fast --rpc --rpcaddr 0.0.0.0 --rpcport 8545 --rpccorsdomain "*" --rpcapi admin,db,eth,debug,miner,net,shh,txpool,personal,web3 console
 
@@ -13,7 +13,7 @@ enode is optional
 :::
 
 ## Run Raiden
-```s
+``` bash
 # run raiden with geth
 ~/Downloads/raiden-0.4.2-macOS --keystore-path /Users/totiz/Library/Ethereum/testnet/keystore
 
