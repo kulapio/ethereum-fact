@@ -97,3 +97,4 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 | ERC20   | Yes                  | No                         | No                   | Yes                              |
 | ERC1155 | Yes                  | Yes                        | Yes                  | No                               |
 | ERC1178 | Yes                  | Yes                        | No                   | No                               |
+ref [https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1)
