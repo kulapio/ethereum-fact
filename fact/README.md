@@ -98,3 +98,6 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 | ERC1155 | Yes                  | Yes                        | Yes                  | No                               |
 | ERC1178 | Yes                  | Yes                        | No                   | No                               |
 ref [https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1)
+
+### Learn solidity
+- Loom netowrk launched [CryptoZombies](https://cryptozombies.io/), a live app enabling anyone to learn to code smart contracts on Ethereum (with over 200,000 students)
