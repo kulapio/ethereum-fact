@@ -82,10 +82,18 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 - Interface - includes improvements around client API/RPC specifications and standards
 - ERC - application-level standards and conventions, including contract standards such as token standards (ERC20).
  
-## Token
+## Token type
 ### ERC721 Stats
 - [https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true](https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true)
 
 ### ERC20 Compatible
 - ERC223 (tokenFallback) [https://github.com/Dexaran/ERC223-token-standard](https://github.com/Dexaran/ERC223-token-standard )
 - ERC827 (transferAndCall) [https://github.com/ethereum/EIPs/issues/827](https://github.com/ethereum/EIPs/issues/827)
+
+### ERCxx Comparison
+|         | Cheap Bulk Transfers | Multiple Classes of NFT/FT | Works as Collectible | Wallet/Marketplace Compatibility |
+|---------|----------------------|----------------------------|----------------------|----------------------------------|
+| ERC721  | No                   | No                         | No                   | Yes                              |
+| ERC20   | Yes                  | No                         | No                   | Yes                              |
+| ERC1155 | Yes                  | Yes                        | Yes                  | No                               |
+| ERC1178 | Yes                  | Yes                        | No                   | No                               |
