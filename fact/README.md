@@ -63,7 +63,7 @@ Aug 2018
 - data (readable by contract code)
 - v, r, s (ECDSA Signature values)
 
-## Begining
+## Begining of Ethereum
 - [[ANN] Ethereum: Welcome to the Beginning](https://bitcointalk.org/index.php?topic=428589.0)
 
 ## Testnet block time
