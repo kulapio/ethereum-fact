@@ -1,5 +1,5 @@
 ---
-title: Run node
+title: Ethereum node
 lang: en-US
 ---
 
