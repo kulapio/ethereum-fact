@@ -39,4 +39,4 @@ ref [https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-c
 
 ## Ethereum Alarm Clock
 SCHEDULING OF TRANSACTIONS FOR DELAYED EXECUTION IN THE FUTURE.
-- https://www.ethereum-alarm-clock.com/
+- [https://www.ethereum-alarm-clock.com/](https://www.ethereum-alarm-clock.com/)
