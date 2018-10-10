@@ -37,6 +37,8 @@ lang: en-US
 ### Reverse Engineering Of Blockchain Smart Contracts
 - [https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/053/original/RECON-MTL-2018-Reversing_blockchains_smart_contracts.pdf](https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/053/original/RECON-MTL-2018-Reversing_blockchains_smart_contracts.pdf)
 
+### Blockchain Security - JP Aumasson
+[https://aumasson.jp/data/talks/balccon18.pdf](https://aumasson.jp/data/talks/balccon18.pdf)
 
 ## Nodes
 Aug 2018
