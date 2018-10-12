@@ -6,9 +6,17 @@ lang: en-US
 # Run Ethereum Node
 
 ## Geth
+
+### Basic run
 ``` bash
 geth --testnet --rpc --rpcapi "db,eth,net,web3,personal" --mine --etherbase "0xf28dafbfeb41bf32869c9d498da0d651d0206ed4" --gasprice "1000000000" --bootnodes "enode://20c9ad97c081d63397d7b685a412227a40e23c8bdc6688c6f37e97cfbc22d2b4d1db1510d8f61e6a8866ad7f0e17c02b14182d37ea7c3c8b9c2683aeb6b733a1@52.169.14.227:30303,enode://6ce05930c72abc632c58e2e4324f7c7ea478cec0ed4fa2528982cf34483094e9cbc9216e7aa349691242576d552a2a56aaeae426c5303ded677ce455ba1acd9d@13.84.180.240:30303" console
 ```
+
+### Running mode
+- Full - Sync: Gets the block headers, the block bodies, and validates every element from genesis block.
+- Fast - Sync: Gets the block headers, the block bodies, it processes no transactions until current block - 64(*). Then it gets a snapshot state and goes like a full synchronization.
+- Light - Sync: Gets only the current state. To verify elements, it needs to ask to full (archive) nodes for the corresponding tree leaves.
+ref: [https://ethereum.stackexchange.com/questions/11297/what-is-geths-light-sync-and-why-is-it-so-fast?rq=1](https://ethereum.stackexchange.com/questions/11297/what-is-geths-light-sync-and-why-is-it-so-fast?rq=1)
 
 ## Parity
 ### configure
