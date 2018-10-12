@@ -18,6 +18,12 @@ geth --cache=1024 --testnet --rpc --rpcapi "db,eth,net,web3,personal" --mine --e
 - Light - Sync: Gets only the current state. To verify elements, it needs to ask to full (archive) nodes for the corresponding tree leaves.
 ref: [https://ethereum.stackexchange.com/questions/11297/what-is-geths-light-sync-and-why-is-it-so-fast?rq=1](https://ethereum.stackexchange.com/questions/11297/what-is-geths-light-sync-and-why-is-it-so-fast?rq=1)
 
+### Running mode - Performance
+| Dataset (blocks, states)              | Normal sync (time, db) | Fast sync (time, db) |
+|---------------------------------------|------------------------|----------------------|
+| Frontier, 357677 blocks, 42.4K states | 12:21 mins, 1.6 GB     | 2:49 mins, 235.2 MB  |
+| Olympic, 837869 blocks, 10.2M states  | 4:07:55 hours, 21 GB   | 31:32 mins, 3.8 GB   |
+
 ## Parity
 ### configure
 <<< @/runnode/config.toml
