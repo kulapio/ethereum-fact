@@ -40,3 +40,9 @@ ref [https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-c
 ## Ethereum Alarm Clock
 SCHEDULING OF TRANSACTIONS FOR DELAYED EXECUTION IN THE FUTURE.
 - [https://www.ethereum-alarm-clock.com/](https://www.ethereum-alarm-clock.com/)
+
+## Plasma
+
+### Loom network - Plasma Cash
+- [White Paper](https://github.com/loomnetwork/plasma-paper/blob/master/plasma_cash.pdf)
+- [Implementation](https://github.com/loomnetwork/plasma-cash)
