@@ -43,6 +43,11 @@ SCHEDULING OF TRANSACTIONS FOR DELAYED EXECUTION IN THE FUTURE.
 
 ## Plasma
 
+
+### Original Plasma: Scalable Autonomous Smart Contracts
+- [White Paper](https://plasma.io/plasma.pdf)
+- [Web](https://plasma.io/)
+
 ### Loom network - Plasma Cash
 - [White Paper](https://github.com/loomnetwork/plasma-paper/blob/master/plasma_cash.pdf)
 - [Implementation](https://github.com/loomnetwork/plasma-cash)
