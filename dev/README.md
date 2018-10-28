@@ -46,3 +46,6 @@ SCHEDULING OF TRANSACTIONS FOR DELAYED EXECUTION IN THE FUTURE.
 ### Loom network - Plasma Cash
 - [White Paper](https://github.com/loomnetwork/plasma-paper/blob/master/plasma_cash.pdf)
 - [Implementation](https://github.com/loomnetwork/plasma-cash)
+
+### Learn
+- [Learn Plasma](https://www.learnplasma.org/en/)
