@@ -34,8 +34,12 @@ lang: en-US
 | ERC1178 | Yes                  | Yes                        | No                   | No                               |
 ref [https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1)
 
-### Learn solidity
+## Learn solidity
 - Loom netowrk launched [CryptoZombies](https://cryptozombies.io/), a live app enabling anyone to learn to code smart contracts on Ethereum (with over 200,000 students)
+
+## Gas cost - EVM instructions
+[Gas Costs from Yellow Paper -- EIP-150 Revision](https://docs.google.com/spreadsheets/d/1n6mRqkBz3iWcOlRem_mO09GtSKEKrAsfO7Frgx18pNU/edit#gid=0)
+
 
 ## Ethereum Alarm Clock
 SCHEDULING OF TRANSACTIONS FOR DELAYED EXECUTION IN THE FUTURE.
