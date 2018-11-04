@@ -46,7 +46,9 @@ SCHEDULING OF TRANSACTIONS FOR DELAYED EXECUTION IN THE FUTURE.
 - [https://www.ethereum-alarm-clock.com/](https://www.ethereum-alarm-clock.com/)
 
 ## Plasma
+The basic idea here is that we can take assets from one chain and transfer them to another (called the “sidechain”) by locking the assets up on the primary chain (or “root chain”) and “creating” them again on the sidechain. When you want to go back, you simply need to “destroy” the asset on the sidechain and unlock them on the root chain
 
+ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 
 ### Original Plasma: Scalable Autonomous Smart Contracts
 - [White Paper](https://plasma.io/plasma.pdf)
