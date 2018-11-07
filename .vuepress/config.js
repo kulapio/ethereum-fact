@@ -18,7 +18,9 @@ module.exports = {
       ['/fact/', 'Fact'],
       ['/dev/', 'Dev'],
       ['/runnode/', 'Node'],
-      ['/wallet/', 'Wallet']
+      ['/wallet/', 'Wallet'],
+      ['/dex/', 'Dex'],
+      ['/2.0/', '2.0'],
     ]
   }
 }
