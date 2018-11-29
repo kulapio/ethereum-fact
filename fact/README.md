@@ -33,6 +33,9 @@ lang: en-US
 - [https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/september/smart-contract-insecurity-broken-access-control/](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/september/smart-contract-insecurity-broken-access-control/)
 - [https://github.com/paritytech/parity-ethereum/blob/4d08e7b0aec46443bf26547b17d10cb302672835/js/src/contracts/snippets/enhanced-wallet.sol#L216](https://github.com/paritytech/parity-ethereum/blob/4d08e7b0aec46443bf26547b17d10cb302672835/js/src/contracts/snippets/enhanced-wallet.sol#L216)
 
+### NPM Package Vulnerability in Copay Wallets
+[NPM Package Vulnerability in v5.0.2-5.1.0 of Copay Wallets](https://blog.bitpay.com/npm-package-vulnerability-copay/)
+
 ## Security study
 ### Reverse Engineering Of Blockchain Smart Contracts
 - [https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/053/original/RECON-MTL-2018-Reversing_blockchains_smart_contracts.pdf](https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/053/original/RECON-MTL-2018-Reversing_blockchains_smart_contracts.pdf)
