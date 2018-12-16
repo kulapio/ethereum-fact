@@ -43,6 +43,16 @@ lang: en-US
 ### Blockchain Security - JP Aumasson
 [https://aumasson.jp/data/talks/balccon18.pdf](https://aumasson.jp/data/talks/balccon18.pdf)
 
+
+### How to Exploit Blockchain Public Chain and Smart Contract Vulnerability
+[PDF](@fact/Lijiafeng.pdf)
+
+### Ethereum Smart Contract Audit CheckList
+[Ethereum Smart Contract Audit CheckList](https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList/blob/master/Ethereum%20Smart%20Contract%20Audit%20CheckList.md?fbclid=IwAR2tSqBnWTCPWKri0H4yCp1dS2HrZa3hXmmjdyIO4Hh8JcLpVbJ5aKGLWKA)
+
+### Automated Smart Contract Exploitation and Looting
+[Automated Smart Contract Exploitation and Looting](https://blog.goodaudience.com/automating-smart-contract-exploitation-and-looting-d43e9740b41c?fbclid=IwAR0yaWX3x1rXVQ2B_C7CMcwTErXaUCTJQRqcLv_ertpu8t-PL45sF0K3pHI)
+
 ## Nodes
 Aug 2018
 - mainnet (id 1): 14902
@@ -84,3 +94,14 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 ## Token type
 [Token type](../dev/#token-type)
 
+
+## Financial service
+- [compound finance](https://compound.finance/)
+- [bloqboard](https://app.bloqboard.com/lend)
+- [Loan Scan](https://loanscan.io/)
+- [dharma](https://dharma.io/)
+- [ETH Lend](https://ethlend.io/#/main)
+- [https://www.blockmason.io/](https://www.blockmason.io/)
+
+## Solidity
+- [Solidity Coverage](https://github.com/sc-forks/solidity-coverage)
