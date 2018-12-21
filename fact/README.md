@@ -102,6 +102,7 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 - [dharma](https://dharma.io/)
 - [ETH Lend](https://ethlend.io/#/main)
 - [https://www.blockmason.io/](https://www.blockmason.io/)
+- [Quick Line](https://quickline.market/)
 
 ## Solidity
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage)
