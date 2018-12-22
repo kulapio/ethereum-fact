@@ -106,3 +106,7 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 
 ## Solidity
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage)
+
+## Stable Coin
+- [Dai - Maker Dao](https://makerdao.com/dai)
+- [Maker Dao Scan](https://makerscan.io/)
