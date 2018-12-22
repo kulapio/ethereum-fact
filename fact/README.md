@@ -91,8 +91,8 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 - Interface - includes improvements around client API/RPC specifications and standards
 - ERC - application-level standards and conventions, including contract standards such as token standards (ERC20).
  
-## Token type
-[Token type](../dev/#token-type)
+## Token types
+[Token types](../dev/#token-type)
 
 
 ## Financial service
