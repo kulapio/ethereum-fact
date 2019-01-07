@@ -17,6 +17,9 @@ lang: en-US
 - [https://etherscan.io/address/0xe0569fd1c3f0affd7e08131a16c06f3381c9355a#code](https://etherscan.io/address/0xe0569fd1c3f0affd7e08131a16c06f3381c9355a#code)
 - quickConvertPrioritized()
 
+### Interfaces & Abstract Contracts
+- [Solidity: How to know when to use Abstract Contracts vs Interfaces](https://blog.upstate.agency/solidity-how-to-know-when-to-use-abstract-contracts-vs-interfaces-874cab860c56)
+
 ## Token type
 ### ERC721 Stats
 - [https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true](https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true)
