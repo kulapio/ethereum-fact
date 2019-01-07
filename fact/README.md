@@ -104,6 +104,14 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 - [https://www.blockmason.io/](https://www.blockmason.io/)
 - [Quick Line](https://quickline.market/)
 
+### Derivative
+- [Open-Source Protocols for Decentralized Margin Trading and Derivatives](https://dydx.exchange/)
+- [Bringing Derivatives to the Blockchain](https://marketprotocol.io/)
+
+## Dao - Decentralized Autonomous Organization
+- [Digix - Gold Coin](https://digix.global/)
+- [Maker Dao](https://makerdao.com/)
+
 ## Solidity
 - [Solidity Coverage](https://github.com/sc-forks/solidity-coverage)
 
