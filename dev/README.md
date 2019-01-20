@@ -67,3 +67,9 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 
 ### Learn
 - [Learn Plasma](https://www.learnplasma.org/en/)
+
+### ZKSNARKs Plasma
+- [ZKSNARKs Plasma](https://www.trustnodes.com/2019/01/06/zksnarks-plasma-eth-scaling-solution-of-500-tx-s-launched-on-testnet) 
+- [Introducing Ignis: Fire Plasma](https://medium.com/plasma-ignis/presenting-ignis-plasma-of-fire-502fab5a6f17)
+- [Github](https://github.com/matterinc/ignis)
+- [Test net](https://ignis.thematter.io/#/)
