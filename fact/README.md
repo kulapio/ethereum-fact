@@ -53,6 +53,9 @@ lang: en-US
 ### Automated Smart Contract Exploitation and Looting
 [Automated Smart Contract Exploitation and Looting](https://blog.goodaudience.com/automating-smart-contract-exploitation-and-looting-d43e9740b41c?fbclid=IwAR0yaWX3x1rXVQ2B_C7CMcwTErXaUCTJQRqcLv_ertpu8t-PL45sF0K3pHI)
 
+### CryptoCurrency Security Standard (CCSS)
+[CCSS](https://cryptoconsortium.org/standards/CCSS)
+
 ## Nodes
 Aug 2018
 - mainnet (id 1): 14902
