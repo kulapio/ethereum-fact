@@ -3,6 +3,9 @@ title: Casper and sharding
 lang: en-US
 ---
 
+# Constantinople Hard Fork
+- [Adoption Overview](https://ethernodes.org/network/1/forkwatch/overview)
+
 # Casper and sharding
 
 ## Proof of Stake - Casper, sharding
