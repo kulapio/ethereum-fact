@@ -14,7 +14,7 @@ m / purpose' / coin_type' / account' / change / address_index
 
 the path look like this
 ```
-m/44'/60'/a'/0/n
+m/44'/60'/0'/0/n
 ```
 
 
