@@ -12,7 +12,7 @@ Read more at the [official BIP32 spec](https://github.com/bitcoin/bips/blob/mast
 See the demo at [bip32.org](http://bip32.org/)
 
 BBIP44 Multi-Account Hierarchy for Deterministic Wallets
-Read more at the [https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki](official BIP44 spec)
+Read more at the [official BIP44 spec](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
 
 BIP49 Derivation scheme for P2WPKH-nested-in-P2SH based accounts
 Read more at the [official BIP49 spec](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki)
