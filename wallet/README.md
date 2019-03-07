@@ -3,6 +3,20 @@ title: Wallet
 lang: en-US
 ---
 
+## BIP
+BIP39 - Mnemonic code for generating deterministic keys
+Read more at the [official BIP39 spec](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+
+BIP32 - Hierarchical Deterministic Wallets
+Read more at the [official BIP32 spec](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
+See the demo at [bip32.org](http://bip32.org/)
+
+BBIP44 Multi-Account Hierarchy for Deterministic Wallets
+Read more at the [https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki](official BIP44 spec)
+
+BIP49 Derivation scheme for P2WPKH-nested-in-P2SH based accounts
+Read more at the [official BIP49 spec](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki)
+
 ## Wallet standard
 The community choose [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki) as standard for Ether wallets.
 BIP44 is multi-Account Hierarchy for Deterministic Wallets.
@@ -14,7 +28,7 @@ m / purpose' / coin_type' / account' / change / address_index
 
 the path look like this
 ```
-m/44'/60'/a'/0/n
+m/44'/60'/0'/0/n
 ```
 
 
@@ -46,3 +60,6 @@ index | hexa       | symbol | coin
 888   | 0x80000378 | NEO    | [NEO](https://neo.org/)
 889   | 0x80000379 | TOMO   | [TOMO](https://tomochain.com/)
 1024  | 0x80000400 | ONT    | [Ontology](https://ont.io)
+
+## Mnemonic Code Converter
+[Converter](https://iancoleman.io/bip39/)
