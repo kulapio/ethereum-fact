@@ -56,6 +56,9 @@ lang: en-US
 ### CryptoCurrency Security Standard (CCSS)
 [CCSS](https://cryptoconsortium.org/standards/CCSS)
 
+### Beauty Chain (BEC) Integer OverFlow
+[Beauty Chain (BEC) OverFlow](https://medium.com/certik/how-formal-verification-would-have-fortified-beauty-chain-bec-contract-f53e78159400)
+
 ## Nodes
 Aug 2018
 - mainnet (id 1): 14902
