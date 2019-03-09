@@ -112,3 +112,9 @@ enode is optional
 # run raiden with parity
 ~/Downloads/raiden-0.5.0-macOS  --keystore-path ~/Library/Application\ Support/io.parity.ethereum/keys/test
 ```
+
+
+## Harmony
+[Ethereum network private peer. Based on EthereumJ implementation.](https://github.com/ether-camp/ethereum-harmony)
+
+
