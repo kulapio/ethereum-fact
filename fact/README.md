@@ -124,3 +124,12 @@ EIP stands for Ethereum Improvement Proposal. An EIP is a design document provid
 ## Stable Coin
 - [Dai - Maker Dao](https://makerdao.com/dai)
 - [Maker Dao Scan](https://makerscan.io/)
+
+## Merkle Proofs in Ethereum
+Every block header in Ethereum contains not just one Merkle tree, but three trees for three kinds of objects:
+- Transactions
+- Receipts (essentially, pieces of data showing the effect of each transaction)
+- State
+![An image](https://blog.ethereum.org/wp-content/uploads/2015/11/ethblockchain_full.png)
+
+- [Ref](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
