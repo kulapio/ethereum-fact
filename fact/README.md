@@ -59,6 +59,10 @@ lang: en-US
 ### Beauty Chain (BEC) Integer OverFlow
 [Beauty Chain (BEC) OverFlow](https://medium.com/certik/how-formal-verification-would-have-fortified-beauty-chain-bec-contract-f53e78159400)
 
+### Zerocoin vulnerability
+- [Further Disclosure on Zerocoin vulnerability](https://zcoin.io/further-disclosure-on-zerocoin-vulnerability/)
+- [Cryptographic description of Zerocoin attack](https://zcoin.io/cryptographic-description-of-zerocoin-attack/)
+
 ## Nodes
 Aug 2018
 - mainnet (id 1): 14902
