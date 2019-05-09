@@ -5,6 +5,9 @@ lang: en-US
 
 # Development
 
+# Topics
+[[toc]]
+
 ## Solidity Design Pattern
 
 ### Library Driven Development in Solidity
