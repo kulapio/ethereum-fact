@@ -5,6 +5,9 @@ lang: en-US
 
 # Decentralized Exchange
 
+# Topics
+[[toc]]
+
 ## Description
 
 Decentralized exchange (aka Dex) is the concept of exchange digital asset withouts anyt centerlized autorities. User freely exchange on their digital assets with benefit of censorship resistance, decentralized smart contract, no middle man, and less fee.
