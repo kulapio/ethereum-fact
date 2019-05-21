@@ -148,3 +148,12 @@ Every block header in Ethereum contains not just one Merkle tree, but three tree
 ![An image](https://blog.ethereum.org/wp-content/uploads/2015/11/ethblockchain_full.png)
 
 - [Ref](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
+
+## Defi - Decentralized Finance Protocol
+### Top 5 DeFi
+- [MakerDAO](https://makerdao.com/) (Stable coin)
+- [Uniswap](https://uniswap.io/) (Dex)
+- [Compound Finance](https://compound.finance/) (Loan)
+- [Dharma Protocol](https://www.dharma.io/) (Loan)
+- [Colendi](Colendi) (Credit scoring)
+ref: [Top 5 DeFi (Decentralized Finance) Projects](https://www.mycryptopedia.com/top-5-defi-decentralized-finance-projects/)
