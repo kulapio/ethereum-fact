@@ -77,3 +77,6 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 - [Github](https://github.com/matterinc/ignis)
 - [Scale ethereum with snarks](https://github.com/barryWhiteHat/roll_up)
 - [Test net](https://ignis.thematter.io/#/)
+
+### ABI-Encoded tools
+- https://abi.hashex.org/#
