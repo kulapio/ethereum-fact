@@ -40,6 +40,9 @@ m/44'/60'/0'/0/n
 where a denotes the Account and n is the n-th generated address.
 - ref: [EIP85](https://github.com/ethereum/EIPs/issues/85)
 
+### Generate your own wallet
+- [Mnemonic Code Converter](https://iancoleman.io/bip39/#english)
+
 ## List of all blockchain index
 - [BIP44 Index List](https://github.com/satoshilabs/slips/blob/master/slip-0044.md).
 
