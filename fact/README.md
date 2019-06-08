@@ -74,6 +74,9 @@ ref: [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-
 - [Further Disclosure on Zerocoin vulnerability](https://zcoin.io/further-disclosure-on-zerocoin-vulnerability/)
 - [Cryptographic description of Zerocoin attack](https://zcoin.io/cryptographic-description-of-zerocoin-attack/)
 
+### TEST YOUR H4CKING SKILLZZ
+- [hackthiscontract.io](https://hackthiscontract.io/) 
+
 ## Nodes
 Aug 2018
 - mainnet (id 1): 14902
