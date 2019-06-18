@@ -77,6 +77,9 @@ ref: [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-
 ### TEST YOUR H4CKING SKILLZZ
 - [hackthiscontract.io](https://hackthiscontract.io/) 
 
+### Reentrancy attack
+- [Solution to 35C3 Junior CTF Challenge "Entrance"](https://labanskoller.se/blog/2019/01/07/solution-to-35c3-junior-ctf-challenge-entrance/)
+
 ## Nodes
 Aug 2018
 - mainnet (id 1): 14902
