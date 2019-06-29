@@ -77,6 +77,9 @@ ref: [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-
 ### TEST YOUR H4CKING SKILLZZ
 - [hackthiscontract.io](https://hackthiscontract.io/) 
 
+### HackPedia: 16 Solidity Hacks/Vulnerabilities, their Fixes and Real World Examples
+- [16 Solidity Hacks/Vulnerabilities](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
+
 ### Reentrancy attack
 - [Solution to 35C3 Junior CTF Challenge "Entrance"](https://labanskoller.se/blog/2019/01/07/solution-to-35c3-junior-ctf-challenge-entrance/)
 
