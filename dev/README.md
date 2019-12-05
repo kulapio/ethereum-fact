@@ -23,6 +23,11 @@ lang: en-US
 ### Interfaces & Abstract Contracts
 - [Solidity: How to know when to use Abstract Contracts vs Interfaces](https://blog.upstate.agency/solidity-how-to-know-when-to-use-abstract-contracts-vs-interfaces-874cab860c56)
 
+### Upgradeability with transparent proxy pattern
+- [The transparent proxy pattern](https://blog.openzeppelin.com/the-transparent-proxy-pattern/)
+- [Upgradeability using Unstructured Storage](https://blog.openzeppelin.com/upgradeability-using-unstructured-storage/)
+- [EIP 1967: Standard Proxy Storage Slots](https://eips.ethereum.org/EIPS/eip-1967)
+
 ## Token type
 ### ERC721 Stats
 - [https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true](https://stat.bloxy.info/superset/dashboard/erc721/?standalone=true)

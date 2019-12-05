@@ -170,3 +170,4 @@ Every block header in Ethereum contains not just one Merkle tree, but three tree
 - [Colendi](Colendi) (Credit scoring)
 
 ref: [Top 5 DeFi (Decentralized Finance) Projects](https://www.mycryptopedia.com/top-5-defi-decentralized-finance-projects/)
+
