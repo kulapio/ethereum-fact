@@ -28,6 +28,7 @@ lang: en-US
 - [Upgradeability using Unstructured Storage](https://blog.openzeppelin.com/upgradeability-using-unstructured-storage/)
 - [EIP 1967: Standard Proxy Storage Slots](https://eips.ethereum.org/EIPS/eip-1967)
 - [EIP 1822: Universal Upgradeable Proxy Standard (UUPS)](https://eips.ethereum.org/EIPS/eip-1822)
+- [OpenZeppelin SDK Upgrades Pattern](https://docs.openzeppelin.com/sdk/2.6/pattern)
 
 ## Token type
 ### ERC721 Stats
