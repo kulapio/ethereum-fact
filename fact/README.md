@@ -171,3 +171,5 @@ Every block header in Ethereum contains not just one Merkle tree, but three tree
 
 ref: [Top 5 DeFi (Decentralized Finance) Projects](https://www.mycryptopedia.com/top-5-defi-decentralized-finance-projects/)
 
+## Sign data
+- [JS Ethereum Signature Example](https://danfinlay.github.io/js-eth-personal-sign-examples/)
