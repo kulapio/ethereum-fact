@@ -87,3 +87,7 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 
 ### ABI-Encoded tools
 - https://abi.hashex.org/#
+
+## Web Services
+### Infura
+- [Http & Websocket endpoints](https://infura.io/docs/gettingStarted/authentication)
