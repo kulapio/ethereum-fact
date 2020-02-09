@@ -91,3 +91,7 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 ## Web Services
 ### Infura
 - [Http & Websocket endpoints](https://infura.io/docs/gettingStarted/authentication)
+
+### Thai Chain
+- Http [https://rpc.tch.in.th](https://rpc.tch.in.th)
+- Websocket [wss://ws.tch.in.th](wss://ws.tch.in.th)
