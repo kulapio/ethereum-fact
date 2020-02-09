@@ -95,3 +95,4 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 ### Thai Chain
 - Http [https://rpc.tch.in.th](https://rpc.tch.in.th)
 - Websocket [wss://ws.tch.in.th](wss://ws.tch.in.th)
+- Explorer [https://exp.tch.in.th/](https://exp.tch.in.th/)
