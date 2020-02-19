@@ -96,3 +96,10 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 - Http [https://rpc.tch.in.th](https://rpc.tch.in.th)
 - Websocket [wss://ws.tch.in.th](wss://ws.tch.in.th)
 - Explorer [https://exp.tch.in.th/](https://exp.tch.in.th/)
+
+## Library
+### OpenZeppelin
+- OpenZeppelin Contracts is a library for secure smart contract development. [https://github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
+### Decimals
+- Fixidity: A fixed point mathematics library for Solidity. [https://github.com/CementDAO/Fixidity](https://github.com/CementDAO/Fixidity)
