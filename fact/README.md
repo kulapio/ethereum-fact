@@ -173,3 +173,8 @@ ref: [Top 5 DeFi (Decentralized Finance) Projects](https://www.mycryptopedia.com
 
 ## Sign data
 - [JS Ethereum Signature Example](https://danfinlay.github.io/js-eth-personal-sign-examples/)
+
+## Maker Dao
+- [MKR Governance Dashboard](https://vote.makerdao.com/)
+- [MKR Governance Stats](https://mkrgov.science/)
+- [MKR DApps](https://oasis.app/)
