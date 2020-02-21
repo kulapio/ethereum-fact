@@ -178,6 +178,7 @@ ref: [Top 5 DeFi (Decentralized Finance) Projects](https://www.mycryptopedia.com
 - [MKR Governance Dashboard](https://vote.makerdao.com/)
 - [MKR Governance Stats](https://mkrgov.science/)
 - [MKR DApps](https://oasis.app/)
+- [MCD Collateral Auctions](https://daiauctions.com/)
 
 ## Uniswap
 - [Uniswap Stats](https://uniswap.info/)
