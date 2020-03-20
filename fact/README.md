@@ -47,6 +47,9 @@ ref: [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-
 ### NPM Package Vulnerability in Copay Wallets
 [NPM Package Vulnerability in v5.0.2-5.1.0 of Copay Wallets](https://blog.bitpay.com/npm-package-vulnerability-copay/)
 
+### batchOverflow Bug
+[batchOverflow Bug in Multiple ERC20 Smart Contracts (CVE-2018–10299)](https://medium.com/@peckshield/alert-new-batchoverflow-bug-in-multiple-erc20-smart-contracts-cve-2018-10299-511067db6536)
+
 ## Security study
 ### Reverse Engineering Of Blockchain Smart Contracts
 - [https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/053/original/RECON-MTL-2018-Reversing_blockchains_smart_contracts.pdf](https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/053/original/RECON-MTL-2018-Reversing_blockchains_smart_contracts.pdf)
