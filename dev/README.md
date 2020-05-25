@@ -114,3 +114,6 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 
 ## Ethereum Storage
 - [How to read Ethereum contract storage](https://medium.com/aigang-network/how-to-read-ethereum-contract-storage-44252c8af925)
+
+## Ethereum Smart Contract Best Practices
+- [Consensys](https://consensys.github.io/smart-contract-best-practices/software_engineering/#upgrading-broken-contracts)
