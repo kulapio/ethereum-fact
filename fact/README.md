@@ -161,6 +161,9 @@ Every block header in Ethereum contains not just one Merkle tree, but three tree
 
 - [Ref](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
 
+## How Ethereum Merkle Trees works
+- [Ethereum Explained: Merkle Trees, World State, Transactions, and More](https://kauri.io/ethereum-explained-merkle-trees-world-state-transa/1f4196c3db7f41e5845f063dc1581a4e/a)
+
 ## Defi - Decentralized Finance Protocol
 ### On-chain Asset Market Share
 - [Defi Pulse](https://defipulse.com/)
