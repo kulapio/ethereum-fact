@@ -10,7 +10,7 @@ lang: en-US
 
 ## Grid (UI)
 - support Aleth, Geth and Parity
-- https://grid.ethereum.org/
+- [https://grid.ethereum.org/](https://grid.ethereum.org/)
 
 ## Geth
 
