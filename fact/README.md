@@ -77,8 +77,8 @@ ref: [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-
 - [Further Disclosure on Zerocoin vulnerability](https://zcoin.io/further-disclosure-on-zerocoin-vulnerability/)
 - [Cryptographic description of Zerocoin attack](https://zcoin.io/cryptographic-description-of-zerocoin-attack/)
 
-### TEST YOUR H4CKING SKILLZZ
-- [hackthiscontract.io](https://hackthiscontract.io/) 
+### TEST YOUR H4CKING SKILL
+- [ethernaut.openzeppelin.com](https://ethernaut.openzeppelin.com/) 
 
 ### HackPedia: 16 Solidity Hacks/Vulnerabilities, their Fixes and Real World Examples
 - [16 Solidity Hacks/Vulnerabilities](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148)
