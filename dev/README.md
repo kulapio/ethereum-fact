@@ -55,8 +55,13 @@ ref [https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-c
 BYZANTIUM](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 ## Gas cost - EVM instructions
-[Gas Costs from Yellow Paper -- EIP-150 Revision](https://docs.google.com/spreadsheets/d/1n6mRqkBz3iWcOlRem_mO09GtSKEKrAsfO7Frgx18pNU/edit#gid=0)
+- [Gas Costs from Yellow Paper -- EIP-150 Revision](https://docs.google.com/spreadsheets/d/1n6mRqkBz3iWcOlRem_mO09GtSKEKrAsfO7Frgx18pNU/edit#gid=0)
+- [Gas defined in go-ethereum](https://github.com/ethereum/go-ethereum/blob/a139041d409d0ffaf81c7cf931c6b24299a05705/params/protocol_params.go#L25)
 
+## Transaction data gas usage
+- 21,000 upfront.
+- 4 for every zero byte.
+- 68 for every non-zero byte.
 
 ## Ethereum Alarm Clock
 SCHEDULING OF TRANSACTIONS FOR DELAYED EXECUTION IN THE FUTURE.
