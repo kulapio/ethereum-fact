@@ -122,3 +122,7 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 
 ## Ethereum Smart Contract Best Practices
 - [Consensys](https://consensys.github.io/smart-contract-best-practices/software_engineering/#upgrading-broken-contracts)
+
+## JSON RPC
+- [Postman](https://documenter.getpostman.com/view/4117254/ethereum-json-rpc/RVu7CT5J?version=latest)
+- [Document](https://github.com/ethereum/wiki/wiki/JSON-RPC)
