@@ -57,6 +57,8 @@ ref: [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-
 ### Blockchain Security - JP Aumasson
 [https://aumasson.jp/data/talks/balccon18.pdf](https://aumasson.jp/data/talks/balccon18.pdf)
 
+### Smart contract sucurity scanner
+[SECURITY SCANNER FOR ETHEREUM SMART CONTRACTS](https://securify.chainsecurity.com/)
 
 ### How to Exploit Blockchain Public Chain and Smart Contract Vulnerability
 [PDF](@fact/Lijiafeng.pdf)
