@@ -118,6 +118,7 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 - [Ethtective](https://ethtective.com/)
 - [Palkeo](https://oko.palkeo.com/)
 - [Blockchair](https://blockchair.com/)
+- [Ethtx](https://ethtx.info/)
 
 ## Ethereum Storage
 - [How to read Ethereum contract storage](https://medium.com/aigang-network/how-to-read-ethereum-contract-storage-44252c8af925)
