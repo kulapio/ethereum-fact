@@ -12,6 +12,7 @@ module.exports = {
       { text: 'Dev', link: '/dev/' },
       { text: 'Node', link: '/runnode/' },
       { text: 'Wallet', link: '/wallet/' },
+      { text: 'L2', link: '/L2/' },
       { text: 'Github', link: 'https://github.com/kulapio/EthereumFact.git' },
     ],
     sidebar: [
@@ -20,7 +21,7 @@ module.exports = {
       ['/runnode/', 'Node'],
       ['/wallet/', 'Wallet'],
       ['/dex/', 'Dex'],
-      ['/2.0/', '2.0'],
+      ['/L2/', 'L2'],
     ]
   }
 }
