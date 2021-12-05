@@ -114,7 +114,7 @@ ref: [Learn Plasma](https://www.learnplasma.org/en/learn/framework.html)
 
 ## Ethereum Explorer
 - [Etherscan](https://etherscan.io/)
-- [Bloxy](https://bloxy.info/)
+- [Bloxy](https://bloxy.info/) (Event profiling)
 - [Ethplorer](https://ethplorer.io/)
 - [Etherchain](https://www.etherchain.org/)
 - [Blockscout](https://blockscout.com/eth/mainnet/)
