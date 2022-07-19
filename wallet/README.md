@@ -71,3 +71,6 @@ index | hexa       | symbol | coin
 
 ## Mnemonic Code Converter
 [Converter](https://iancoleman.io/bip39/)
+
+## Send ether & erc20
+[Distribute ether or tokens to multiple addresses](https://disperse.app/)
